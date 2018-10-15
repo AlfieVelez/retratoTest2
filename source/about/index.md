@@ -8,7 +8,7 @@ type: "about"
 ![](/images/logo.jpg)
 </center>
 
-Since 2015, Retrato De Poeta created for the purpose to catch-up the future. The team developed based on their interest, passion and believe in the future. Most of us are interested in artificial intelligence or so called as intelligent robot. These machines invented for humans but some are believed they are invented to replace humans. Your opinion is your rights but we are very passion on how these machines can improve our lifestyle.
+Since 2015, Paul Unteer created for the purpose to catch-up the future. The team developed based on their interest, passion and believe in the future. Most of us are interested in artificial intelligence or so called as intelligent robot. These machines invented for humans but some are believed they are invented to replace humans. Your opinion is your rights but we are very passion on how these machines can improve our lifestyle.
 
 We collect information and facts from reliable sources regarding these machines. Cooperation from these inventor is very crucial otherwise we will get scammed. Analysing and researching are our skilled to extract the facts we received then follow the inventors' project for every demo session. 
 
